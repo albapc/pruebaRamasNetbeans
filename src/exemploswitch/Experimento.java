@@ -5,10 +5,7 @@
  */
 package exemploswitch;
 
-/**
- *
- * @author aperezcesar
- */
+
 public class Experimento {
     
 }
