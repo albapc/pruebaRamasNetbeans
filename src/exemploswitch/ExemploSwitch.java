@@ -12,7 +12,7 @@ public class ExemploSwitch {
     Scanner sc= new Scanner (System.in);
     int op= sc.nextInt();
     
-    switch (op){
+    switch (op){//opciones
         case 1: System.out.println("Luns");
                 break;
         case 2: System.out.println("Martes");
