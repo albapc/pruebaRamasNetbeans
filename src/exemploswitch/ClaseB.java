@@ -8,6 +8,7 @@ package exemploswitch;
 /**
  *
  * @author aperezcesar
+ * @author igonzaleziglesias
  */
 public class ClaseB {
     
