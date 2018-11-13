@@ -8,7 +8,8 @@ package exemploswitch;
 /**
  *
  * @author aperezcesar
+ * @author Angelguinaldo
  */
 public class ClaseB {
-    
+    //Hola, commit A rama experimentalAngel
 }
