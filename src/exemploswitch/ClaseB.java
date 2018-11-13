@@ -11,5 +11,5 @@ package exemploswitch;
  * @author Angelguinaldo
  */
 public class ClaseB {
-    //Hola, commit A rama 561561
+    //Hola, commit A rama 5615612
 }
