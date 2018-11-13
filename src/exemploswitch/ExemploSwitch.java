@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ExemploSwitch {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {//días de la semana 
     System.out.println("*****MENÚ*******\n1-> Luns\n2->Martes\n3->Mércores\n"
             + "4-> Xoves\n5-> Venres\n6-> Sábado\n7-> Domingo\nELIXE UNHA OPCIÓN:");
     
